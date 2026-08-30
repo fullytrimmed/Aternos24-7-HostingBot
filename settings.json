@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "OtlupeynirBot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
+    "ip": "192.168.1.199",
     "port": 25565,
     "version": "",
     "try-creative": false
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "YourAuthPassword"
+      "password": "cYLN_Ul9fwNbfdNvQcKB-6"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,8 +31,10 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "I like to play Minecraft!"
+        "Otlupeynir sevilir, sevmeyenler mal.",
+        "OTLUPEYNİR MARKET İNDİRİMLERİ BİTMİYOR! çünkü yok.",
+        "OtlupeynirSMP",
+        "Hmm.. nasılsın? Sıkıldım."
       ]
     },
     "chat-log": true,
@@ -82,6 +84,6 @@
   },
   "chat": {
     "respond": true,
-    "tpWhitelist": ["YourMinecraftUsername"]
+    "tpWhitelist": ["Not5RiiDad"]
   }
 }
