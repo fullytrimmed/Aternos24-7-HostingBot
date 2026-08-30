@@ -843,8 +843,8 @@ function chatModule(bot) {
 
       if (config.chat?.respond) {
         const lowerMsg = message.toLowerCase();
-        if (lowerMsg.includes('hello') || lowerMsg.includes('hi')) {
-          bot.chat(`Hello, ${username}!`);
+        if (lowerMsg.includes('sa') || lowerMsg.includes('selam')) {
+          bot.chat(`Selam, ${username}!`);
         }
 
         if (message.startsWith('!tp ')) {
